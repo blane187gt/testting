@@ -1,7 +1,9 @@
 # **Harmonify (RVC No UI Colab)**
-https://colab.research.google.com/drive/1X8YR4Ruv7zzY8YAMPTfC7hkxqT_d4Q5d
+https://colab.research.google.com/drive/1ntQ_ykZ0P_HVF_84zULixs_kigKmCVJP?usp=sharing
 
 ## **Credits**
+
+[Blane187](http://discord.com/users/1221414974811934831) - MDX-NET UVR5 port + added new feature
 [Eempostor](https://discordapp.com/users/818050831034613771) - Made everything work together, Notebook creator
 
 [Applio](https://github.com/IAHispano/Applio-RVC-Fork) by [IAHispano](https://github.com/IAHispano) - The repo this colab is based on

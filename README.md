@@ -18,5 +18,4 @@ https://colab.research.google.com/drive/1ntQ_ykZ0P_HVF_84zULixs_kigKmCVJP?usp=sh
 
 [Phind](https://www.phind.com/) - Helper
 
-If you have any suggestions or problems on this colab, dm [me](https://discordapp.com/users/818050831034613771) on discord.
-
+(add beta feature)

@@ -1,3 +1,14 @@
+---
+tags:
+- music
+- RVC
+- Voice Conversion
+- Harmonify
+- RVC V2
+- UVR5
+license: mit
+pipeline_tag: audio-to-audio
+---
 # **Harmonify (RVC No UI Colab)**
 https://colab.research.google.com/drive/1ntQ_ykZ0P_HVF_84zULixs_kigKmCVJP?usp=sharing
 

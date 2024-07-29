@@ -461,7 +461,7 @@ class Pipeline(object):
                 del self.model_rmvpe.model
                 del self.model_rmvpe
                 logger.info("Cleaning ortruntime memory")
-        elif f0_method == "rmvpe+":
+        elif f0_method == "rmvpe_legacy": # befor this rmvpe+, refrence by fcpe_legacy
             params = {'x': x, 'p_len': p_len, 'f0_up_key': f0_up_key, 'f0_min': f0_min, 
                       'f0_max': f0_max, 'time_step': time_step, 'filter_radius': filter_radius, 
                       'crepe_hop_length': crepe_hop_length, 'model': "full"

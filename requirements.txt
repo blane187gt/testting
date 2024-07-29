@@ -18,10 +18,10 @@ soundfile
 torch
 torchcrepe
 tqdm
-sox
 torchfcpe
 local_attention
 ffmpeg
-av
 pyworld
 torchfcpe
+sox
+av
